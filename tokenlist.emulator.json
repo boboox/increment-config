@@ -57,7 +57,7 @@
             "vaultPath": "usdcVault",
             "vaultBalancePath": "usdcBalance",
             "vaultReceiverPath": "usdcReceiver",
-            "icon": "",
+            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
             "info": ""
         },
         "A.f8d6e0586b0a20c7.BLT": {
