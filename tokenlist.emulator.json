@@ -37,7 +37,7 @@
             "vaultPath": "busdVault",
             "vaultBalancePath": "busdBalance",
             "vaultReceiverPath": "busdReceiver",
-            "icon": "",
+            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png",
             "info": ""
         },
         "A.f8d6e0586b0a20c7.USDT": {
@@ -47,7 +47,7 @@
             "vaultPath": "usdtVault",
             "vaultBalancePath": "usdtBalance",
             "vaultReceiverPath": "usdtReceiver",
-            "icon": "",
+            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
             "info": ""
         },
         "A.f8d6e0586b0a20c7.USDC": {
