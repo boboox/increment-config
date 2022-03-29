@@ -1,15 +1,5 @@
 {
     "Tokens": {
-        "A.7e60df042a9c0868.FlowToken": {
-            "tokenName": "FlowToken",
-            "tokenAddress": "0x7e60df042a9c0868",
-            "showName": "Flow",
-            "vaultPath": "flowTokenVault",
-            "vaultBalancePath": "flowTokenBalance",
-            "vaultReceiverPath": "flowTokenReceiver",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/4558.png",
-            "info": ""
-        },
         "A.f9dad0d4c14a92b5.wFlow": {
             "tokenName": "wFlow",
             "tokenAddress": "0xf9dad0d4c14a92b5",
@@ -20,7 +10,16 @@
             "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/4558.png",
             "info": ""
         },
-
+        "A.7e60df042a9c0868.FlowToken": {
+            "tokenName": "FlowToken",
+            "tokenAddress": "0x7e60df042a9c0868",
+            "showName": "Flow",
+            "vaultPath": "flowTokenVault",
+            "vaultBalancePath": "flowTokenBalance",
+            "vaultReceiverPath": "flowTokenReceiver",
+            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/4558.png",
+            "info": ""
+        },
         "A.e5b5624186770886.FUSD": {
             "tokenName": "FUSD",
             "tokenAddress": "0xe5b5624186770886",
@@ -31,6 +30,37 @@
             "icon": "https://i.pinimg.com/originals/47/17/2c/47172c9bde1d02aa2266abee8a8bc848.jpg",
             "info": ""
         },
+        "A.e223d8a629e49c68.FUSD": {
+            "tokenName": "FUSD",
+            "tokenAddress": "0xe223d8a629e49c68",
+            "showName": "FUSD",
+            "vaultPath": "fusdVault",
+            "vaultBalancePath": "fusdBalance",
+            "vaultReceiverPath": "fusdReceiver",
+            "icon": "https://i.pinimg.com/originals/47/17/2c/47172c9bde1d02aa2266abee8a8bc848.jpg",
+            "info": ""
+        },
+        "A.e5b5624186770886.USDC": {
+            "tokenName": "USDC",
+            "tokenAddress": "0xe5b5624186770886",
+            "showName": "USDC_test",
+            "vaultPath": "test_usdcVault",
+            "vaultBalancePath": "test_usdcBalance",
+            "vaultReceiverPath": "test_usdcReceiver",
+            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+            "info": ""
+        },
+        "A.a983fecbed621163.FiatToken": {
+            "tokenName": "USDC",
+            "tokenAddress": "0xa983fecbed621163",
+            "showName": "USDC",
+            "vaultPath": "USDCVault",
+            "vaultBalancePath": "USDCVaultBalance",
+            "vaultReceiverPath": "USDCVaultReceiver",
+            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+            "info": ""
+        },
+        
 
         "A.f9dad0d4c14a92b5.BUSD": {
             "tokenName": "BUSD",
@@ -50,16 +80,6 @@
             "vaultBalancePath": "test_usdtBalance",
             "vaultReceiverPath": "test_usdtReceiver",
             "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
-            "info": ""
-        },
-        "A.e5b5624186770886.USDC": {
-            "tokenName": "USDC",
-            "tokenAddress": "0xe5b5624186770886",
-            "showName": "USDC_test",
-            "vaultPath": "test_usdcVault",
-            "vaultBalancePath": "test_usdcBalance",
-            "vaultReceiverPath": "test_usdcReceiver",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
             "info": ""
         },
         "A.48adb192e4b081b0.BLT": {
