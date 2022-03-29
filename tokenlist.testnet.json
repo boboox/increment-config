@@ -3,7 +3,7 @@
         "A.f9dad0d4c14a92b5.wFlow": {
             "tokenName": "wFlow",
             "tokenAddress": "0xf9dad0d4c14a92b5",
-            "showName": "wFlow_test",
+            "showName": "Flow_test",
             "vaultPath": "test_wflowVault",
             "vaultBalancePath": "test_wflowBalance",
             "vaultReceiverPath": "test_wflowReceiver",
