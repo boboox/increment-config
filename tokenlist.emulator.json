@@ -3,7 +3,7 @@
         "A.0ae53cb6e3f42a79.FlowToken": {
             "tokenName": "FlowToken",
             "tokenAddress": "0x0ae53cb6e3f42a79",
-            "showName": "Flow",
+            "showName": "xFlow",
             "vaultPath": "flowTokenVault",
             "vaultBalancePath": "flowTokenBalance",
             "vaultReceiverPath": "flowTokenReceiver",
@@ -13,7 +13,7 @@
         "A.f8d6e0586b0a20c7.wFlow": {
             "tokenName": "wFlow",
             "tokenAddress": "0xf8d6e0586b0a20c7",
-            "showName": "wFlow",
+            "showName": "xwFlow",
             "vaultPath": "wflowVault",
             "vaultBalancePath": "wflowBalance",
             "vaultReceiverPath": "wflowReceiver",
@@ -23,7 +23,7 @@
         "A.f8d6e0586b0a20c7.FUSD": {
             "tokenName": "FUSD",
             "tokenAddress": "0xf8d6e0586b0a20c7",
-            "showName": "FUSD",
+            "showName": "xFUSD",
             "vaultPath": "fusdVault",
             "vaultBalancePath": "fusdBalance",
             "vaultReceiverPath": "fusdReceiver",
@@ -33,7 +33,7 @@
         "A.f8d6e0586b0a20c7.BUSD": {
             "tokenName": "BUSD",
             "tokenAddress": "0xf8d6e0586b0a20c7",
-            "showName": "BUSD",
+            "showName": "xBUSD",
             "vaultPath": "busdVault",
             "vaultBalancePath": "busdBalance",
             "vaultReceiverPath": "busdReceiver",
@@ -43,7 +43,7 @@
         "A.f8d6e0586b0a20c7.USDT": {
             "tokenName": "USDT",
             "tokenAddress": "0xf8d6e0586b0a20c7",
-            "showName": "USDT",
+            "showName": "xUSDT",
             "vaultPath": "usdtVault",
             "vaultBalancePath": "usdtBalance",
             "vaultReceiverPath": "usdtReceiver",
@@ -53,7 +53,7 @@
         "A.f8d6e0586b0a20c7.USDC": {
             "tokenName": "USDC",
             "tokenAddress": "0xf8d6e0586b0a20c7",
-            "showName": "USDC",
+            "showName": "xUSDC",
             "vaultPath": "usdcVault",
             "vaultBalancePath": "usdcBalance",
             "vaultReceiverPath": "usdcReceiver",
@@ -63,7 +63,7 @@
         "A.f8d6e0586b0a20c7.BLT": {
             "tokenName": "BLT",
             "tokenAddress": "0xf8d6e0586b0a20c7",
-            "showName": "BLT",
+            "showName": "xBLT",
             "vaultPath": "bLTVault",
             "vaultBalancePath": "bLTBalance",
             "vaultReceiverPath": "bLTReceiver",
